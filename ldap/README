@@ -1,0 +1,7 @@
+ldap-cr.yaml 
+
+Reference for creating the Custom Resource Definition for the LDAP Ddentity Provider. LDAP attributes, bindDN, bindPassword, ca and url will change depending on the Identity Manager being used.
+
+
+For further information see the deployment guide. 
+ 

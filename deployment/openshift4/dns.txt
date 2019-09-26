@@ -1,0 +1,19 @@
+$ORIGIN apps.ocsukt2.verifone.com.
+*               A 10.68.69.167
+$ORIGIN ocsukt1.verifone.com.
+_etcd-server-ssl._tcp SRV 0 10 2380 etcd-0
+_etcd-server-ssl._tcp SRV 0 10 2380 etcd-1
+_etcd-server-ssl._tcp SRV 0 10 2380 etcd-2
+UKTPIMS900OCS01 A 10.68.69.132
+UKTPIMS900OCM01 A 10.68.69.133
+UKTPIMS900OCM02 A 10.68.69.134
+UKTPIMS900OCM03 A 10.68.69.135
+api             A 10.68.69.168
+api-int         A 10.68.69.168
+etcd-0          A 10.68.69.133
+etcd-1          A 10.68.69.134
+etcd-2          A 10.68.69.135
+UKTPIMS900OCW01 A 10.68.69.137
+UKTPIMS900OCW02 A 10.68.69.138
+UKTPIMS900OCW03 A 10.68.69.139
+UKTPIMS900OCW04 A 10.68.69.140
